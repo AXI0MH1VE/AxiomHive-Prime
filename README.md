@@ -5,7 +5,7 @@
 
 ---
 
-## 🤖 **Powered by DevDollz — Quantum-secure AI R&D**
+## **Powered by DevDollz — Quantum-secure AI R&D**
 [![DevDollz](https://img.shields.io/badge/DevDollz-AI%20R%26D%20Studio-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMHoiIGZpbGw9IiNmZjY5YjQiLz48L3N2Zz4=)](https://github.com/DevDollzAi)
 
 **AxiomHive by DevDollz: The Sovereign Intelligence Platform**

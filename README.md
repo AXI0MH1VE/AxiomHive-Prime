@@ -1,3 +1,6 @@
+
+<img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/4feebc39-e63c-4375-b54c-d7bcb7b7985e.png" alt="Neon TRON GitHub Banner" style="width:100%;border-radius:12px;box-shadow:0 0 20px #ff40eb, 0 0 40px #14111c;">
+
 <div align="center">
 
 # 🌌 ALEXIS ADAMS | AXI0MH1VE

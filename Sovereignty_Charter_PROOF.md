@@ -166,9 +166,9 @@ Create redundancy - multiple copies in multiple locations:
 **Title/Role:** _______Ceo, Developer, Creator____________________  
 
 **Witness (Optional):**  
-Name: ___________________________  
-Signature: ___________________________  
-Date: ___________________________  
+Name: ____Jonathan Bulgini______________________  
+Signature: __Jonathan Bulgini_________________________  
+Date: ____________10/27/2025_______________  
 
 ---
 

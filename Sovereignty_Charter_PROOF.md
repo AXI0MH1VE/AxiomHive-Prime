@@ -15,11 +15,11 @@
               SOVEREIGNTY CHARTER - IP PROTECTION DECLARATION
 ═══════════════════════════════════════════════════════════════
 
-📅 TIMESTAMP: [INSERT UTC TIMESTAMP]
+📅 TIMESTAMP: 10/27/2025
 
 🔐 DECLARATION:
 
-I, [YOUR FULL NAME/ENTITY], hereby declare and establish sovereign 
+I, Nicholas M. Grossi , Alexis M. Grossi, hereby declare and establish sovereign 
 ownership and intellectual property rights over all content, code, 
 designs, concepts, and materials contained within this repository 
 and its associated projects.
@@ -37,14 +37,13 @@ This declaration serves as legal notice that:
 4. All rights are reserved under international IP law.
 
 📝 SIGNATURE: ________________________________
-               [YOUR FULL NAME]
-               [YOUR TITLE/ROLE]
+                              
 
-📧 CONTACT: [YOUR EMAIL ADDRESS]
+📧 CONTACT: DevDollzAi@Gmail.com
 
 🔗 REPOSITORY: https://github.com/AXI0MH1VE/AXI0MH1VE
 
-⚖️ JURISDICTION: [YOUR COUNTRY/STATE]
+⚖️ JURISDICTION: Miami FL, Miami Dade  County  
 
 ═══════════════════════════════════════════════════════════════
 ```
@@ -56,10 +55,10 @@ This declaration serves as legal notice that:
 ### **Step 1: Prepare Your Declaration**
 1. Copy the sample declaration block above
 2. Fill in all bracketed fields with your actual information:
-   - `[INSERT UTC TIMESTAMP]` → Use current UTC timestamp (e.g., `2025-10-27T08:46:00Z`)
-   - `[YOUR FULL NAME/ENTITY]` → Your legal name or registered business entity
-   - `[YOUR EMAIL ADDRESS]` → Valid contact email
-   - `[YOUR COUNTRY/STATE]` → Your legal jurisdiction
+   - `11;57 Am 10/27/25` → Use current UTC timestamp (e.g., `2025-10-27T08:46:00Z`)
+   - `Nicholas M. Grossi, Alexis M. Adams` → Your legal name or registered business entity
+   - DevDollzAi@Gmail.com` → Valid contact email
+   - `Miami, Florida, Miami Dade County ` → Your legal jurisdiction
 3. Review carefully for accuracy and completeness
 
 ### **Step 2: Create Timestamped Proof**

@@ -36,7 +36,7 @@ This declaration serves as legal notice that:
 
 4. All rights are reserved under international IP law.
 
-📝 SIGNATURE: ________________________________
+ 📝 SIGNATURE: _____Nicholas M. Grossi , Alexis M. Adams___________________________
                               
 
 📧 CONTACT: DevDollzAi@Gmail.com
@@ -159,11 +159,11 @@ Create redundancy - multiple copies in multiple locations:
 
 ## ⏱️ Your Timestamped Signature
 
-**Date Signed:** ___________________________  
-**UTC Timestamp:** ___________________________  
-**Signature:** ___________________________  
-**Printed Name:** ___________________________  
-**Title/Role:** ___________________________  
+**Date Signed:** ______10/27/2025_____________________  
+**UTC Timestamp:** __________12:08pm_________________  
+**Signature:** ___________Alexis M. Adams, Nicholas M. Grossi________________  
+**Printed Name:** ______Nicholas M. Grossi, Alexis M. Adams_____________________  
+**Title/Role:** _______Ceo, Developer, Creator____________________  
 
 **Witness (Optional):**  
 Name: ___________________________  

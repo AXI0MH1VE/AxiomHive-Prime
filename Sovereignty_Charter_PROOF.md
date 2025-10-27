@@ -2,9 +2,9 @@
 
 **Document Title:** Sovereignty Charter - Intellectual Property Protection Declaration  
 **Version:** 1.0  
-**Date Created:** [INSERT DATE]  
+**Date Created:** 10/27/2025  
 **Repository:** AXI0MH1VE  
-**Author/Owner:** [INSERT YOUR NAME/ENTITY]  
+**Author/Owner:** Alexis M. Adams , Nicholas M. Grossi 
 
 ---
 

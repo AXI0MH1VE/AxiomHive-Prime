@@ -254,7 +254,7 @@ This declaration is **most effective when combined with:**
 
 | Version | Date | Author | Changes |
 |---------|------|--------|----------|
-| 1.0 | [DATE] | [AUTHOR] | Initial sovereignty charter proof document created |
+| 1.0 | 10/27/25 | Alexis M. Adams| Initial sovereignty charter proof document created |
 
 ---
 

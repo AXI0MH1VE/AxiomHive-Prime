@@ -1,6 +1,8 @@
 <div align="center">
 
 # 🚀 ALEXIS ADAMS | AI System Architect
+## Deterministic AI Systems | AxiomHive Founder | Provable AI Architecture
+## Building Sovereign, Auditable AGI Systems | Miami Tech Hub
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=AI+System+Architect;Autonomous+Framework+Engineer;Building+Next-Gen+AI+Infrastructure)](https://github.com/AXI0MH1VE)
 
